@@ -1,1 +1,1 @@
-#Joukowski Airfoil Visualization GUI
+# Joukowski Airfoil Visualization GUI
